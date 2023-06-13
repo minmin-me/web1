@@ -1,4 +1,4 @@
-# welcome:squirrel:
+# welcome
 ![환영](./환영.jpg)
 
 # 자기소개:smiley:
